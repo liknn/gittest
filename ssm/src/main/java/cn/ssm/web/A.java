@@ -9,7 +9,7 @@ public class A implements Runnable {
 	private static String lock = "a";
 
 	public static void main(String[] args) {
-//		ExecutorService es = Executors.newCachedThreadPool();aa
+//		ExecutorService es = Executors.newCachedThreadPool();
 //		es.execute(new SimpleRunnable(lock));
 //		es.execute(new SimpleRunnable2(lock));
 		
